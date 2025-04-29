@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Array of floor sample image URLs (replace with your actual image paths)
     const sampleImages = [
-        'images/lvp_sample1.png',
-        'images/lvp_sample2.png',
-        'images/lvp_sample3.png',
+        'images/lvp_sample-1.png',
+        'images/lvp_sample-2.png',
+        'images/lvp_sample-3.png',
         // Add more image URLs here
     ];
 
