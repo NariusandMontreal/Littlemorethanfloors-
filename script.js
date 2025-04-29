@@ -10,11 +10,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Array of floor sample image URLs (replace with your actual image paths)
     const sampleImages = [
-        'images/lvp-sample-1.png',
-        'images/lvp-sample-2.png',
-        'images/lvp-sample-3.png',
-        // Add more image URLs here
-    ];
+    'images/lvp-sample-1.png',
+    'images/lvp-sample-2.png',
+    'images/lvp-sample-3.png',
+    // Add paths to all your sample images
+];
 
     // Load and display floor samples
     sampleImages.forEach(imageUrl => {
